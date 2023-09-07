@@ -90,3 +90,5 @@ https://arxiv.org/pdf/2211.12446v2.pdf \
 https://arxiv.org/pdf/2210.03142v3.pdf \
 https://arxiv.org/pdf/2211.08332v3.pdf \
 https://arxiv.org/pdf/2211.12446v2.pdf
+
+Все вышеописанное можно увидеть в приложенном ноутбуке. Также, на всякий случай прикладываю ссылку на colab: https://colab.research.google.com/drive/1omKbOs5PbLRTGmG7KK9UOO3bibz37fLU?usp=sharing
