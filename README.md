@@ -84,9 +84,9 @@ Prompt: add tulips on table
 Для того, чтобы изменение не затрагивало остальные элементы изображения можно применять маскирование. 
 Маскирование и использование Image inpainting позволяет заполнить пропущенные области изображения, сохраняя при этом существующие сутевые элементы. Алгоритмы Image Inpainting используют информацию о контексте окружения, чтобы восстановить отсутствующие части изображений. 
 
-Ссылки на статьи, в которых описывается text-guided image editing:
-https://arxiv.org/pdf/2211.09800.pdf
-https://arxiv.org/pdf/2211.12446v2.pdf
-https://arxiv.org/pdf/2210.03142v3.pdf
-https://arxiv.org/pdf/2211.08332v3.pdf
+Ссылки на статьи, в которых описывается text-guided image editing:\
+https://arxiv.org/pdf/2211.09800.pdf \
+https://arxiv.org/pdf/2211.12446v2.pdf \
+https://arxiv.org/pdf/2210.03142v3.pdf \
+https://arxiv.org/pdf/2211.08332v3.pdf \
 https://arxiv.org/pdf/2211.12446v2.pdf
